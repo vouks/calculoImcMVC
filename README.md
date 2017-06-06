@@ -15,6 +15,4 @@ mvn org.apache.tomcat.maven:tomcat7-maven-plugin:run -Dmaven.tomcat.port=9090
 
 ## Para acessar a aplicação
 
-```bash
 [http://localhost:9090/renan-pw/mvc/imc](http://localhost:9090/renan-pw/mvc/imc)
-```

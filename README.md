@@ -4,7 +4,7 @@
 ## Para fazer o clone do projeto
 
 ```bash
-git clone https://github.com/vouks/pw-ufg-2017-1
+git clonehttps://github.com/vouks/calculoImcMVC
 ```
 
 ## Para rodar com o Tomcat na porta 9090
